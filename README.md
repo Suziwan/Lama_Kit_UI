@@ -14,7 +14,7 @@ Here is the list of atoms required in the kit :
 
 ## HTML
 Just an index.html file showing the UI Kit with designed atoms and molecules.  
-Open this file to view the final UI Llama UI Kit :)
+Open this file to view the final Lama UI Kit :)
 
 ## CSS
 The file "style.css" contains all the style to apply to html elements.
