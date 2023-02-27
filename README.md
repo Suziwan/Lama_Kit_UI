@@ -5,7 +5,7 @@ A UI Kit based on Lama/Alpaca theme, following atomic design rules.
 Here is the list of atoms required in the kit :
 
 - Colors
-- Fonts
+- Typography
 - Buttons
 - Icons
 - Forms
